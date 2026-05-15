@@ -6,7 +6,7 @@ tags:
 ---
 # OutscoutZokReview
 
-Вышел обзор «Сокрытое в Зимней Олимпиаде Квестов» от Аутскаута! Посмотреть можно [в VK Видео](https://vkvideo.ru/video-235382942_456239021) или [на YouTube](https://www.youtube.com/watch?v=pG1NSObelU8).
+Вышел видеообзор «Сокрытое в Зимней Олимпиаде Квестов» от Аутскаута! Посмотреть можно [в VK Видео](https://vkvideo.ru/video-235382942_456239021) или [на YouTube](https://www.youtube.com/watch?v=pG1NSObelU8).
 
 Обзор заставил пожалеть о не пройденной «[Башня Парабеда](https://db.crem.xyz/game/3435/)». На днях точно пройду 🔥
 

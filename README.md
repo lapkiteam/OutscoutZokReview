@@ -1,8 +1,10 @@
 ---
 tags:
   - outscout
-  - рисунок
   - ифня
+  - зок2026
+  - зок
+  - рисунок
   - комикс
 ---
 # OutscoutZokReview
